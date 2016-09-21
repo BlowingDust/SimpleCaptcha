@@ -6,6 +6,11 @@
 * Python 3
 * Pillow
 
+## Preview
+![image](https://raw.githubusercontent.com/BlowingDust/SimpleCaptcha/master/image/my_code_y1JY.jpg)
+
+``code: y1JY``
+
 ## Usage
 默认字体：Source Code Pro
 
